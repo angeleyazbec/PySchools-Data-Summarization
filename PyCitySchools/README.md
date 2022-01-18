@@ -83,3 +83,7 @@ As final considerations:
 * You must submit a link to your Github/Git Lab repo that contains your Jupyter Notebook.
 * You must include a written description of at least two observable trends based on the data.
 * See [Example Solution](PyCitySchools/PyCitySchools_starter.ipynb) for a reference on the expected format.
+
+IMPORTANT NOTES:
+* PyCitySchools_Clean Script will display the code for the analysis and the requested summary   tables.
+*PyCitySchools_Script will display the code for the analysis, requested summary tables, and all intermediate output used to examine the data.
